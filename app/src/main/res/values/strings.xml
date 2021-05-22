@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Andersen_Homework_5</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact1">Константин борисович</string>
+    <string name="contact_1">Константин Борисович</string>
+    <string name="conact_placeholder">Имя Фамилия</string>
+    <string name="phone_placeholder">+78005553535</string>
+    <string name="name_ru">Имя:</string>
+    <string name="surname_ru">Фамилия:</string>
+    <string name="phone_ru">Телефон:</string>
+    <string name="save_ru">Сохранить</string>
+
+    <string-array name="names">
+        <item>Петя</item>
+        <item>Вася</item>
+        <item>Никита</item>
+        <item>Андрей</item>
+        <item>Светлана</item>
+        <item>Катерина</item>
+        <item>Кристина</item>
+        <item>Айдар</item>
+        <item>Влад</item>
+        <item>Биба</item>
+        <item>Боба</item>
+    </string-array>
+
+    <string-array name="surnames">
+        <item>Заборов</item>
+        <item>Прищепкин</item>
+        <item>Пупкин</item>
+        <item>Зубкин</item>
+        <item>Дуркин</item>
+        <item>Угрюмов</item>
+        <item>Веселов</item>
+        <item>Пивнов</item>
+        <item>Краснов</item>
+        <item>Дуров</item>
+        <item>Умнов</item>
+    </string-array>
+
+</resources>

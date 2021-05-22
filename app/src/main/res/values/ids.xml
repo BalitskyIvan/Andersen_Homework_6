@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name_contact" type="id" />
+    <item name="phone_contact" type="id" />
+</resources>
